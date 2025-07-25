@@ -1,3 +1,4 @@
+![Github banner](https://github.com/user-attachments/assets/08f08f20-9464-43e7-bd62-f3a6cb6ed294)
 # Welcome to Possumic’s site on GitHub
 
 Possumic is a leading SoC design company and total solution provider specializing in mmWave smart sensors. With a focus on "Sensing + Connectivity," we develop integrated sensing-communication solutions that push the boundaries of perception and connection technologies. Our innovations empower AIoT products with intelligent upgrades to meet diverse smart living scenarios.
